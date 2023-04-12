@@ -6,14 +6,10 @@ class Mahasiswa {
 private:
 	int nim;
 	string nama;
-public :
+public:
 	void inputdata() {
 		cout << "Masukkan NIM : ";
 		cin >> nim;
 		cout << "Masukkan Nama : ";
 		cin >> nama;
 	}
-	void tampildata() {
-		cout <<n
-	}
-}
